@@ -1,0 +1,50 @@
+.project{
+    display: flex;
+    justify-content: center;
+   background-color: rgb(179, 206, 206);
+    justify-content: space-around;
+    height: 400px;
+    
+}
+.islem{
+    background-color: rgb(147, 147, 177);
+    width: 245px;
+    border-radius: 9%;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;   
+}
+h3{
+    display: flex;
+    justify-content: center;
+
+}
+.aa{
+    margin-left: 78px;
+    margin-top: 16px;
+    
+}
+.zz{
+    display: flex;
+    justify-content: center;
+}
+.ee{
+    display: flex;
+    justify-content: center; 
+}
+.samer{
+    color: red;
+}
+
+
+.rr{
+    display: flex;
+    justify-content: center;
+    font-size: 82px;
+}
